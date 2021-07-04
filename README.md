@@ -1,5 +1,5 @@
 # alterscheck
 
-Einfach alterscheck.cs in einer vorgegebenen IDE öffnen dann umschreiben.
+Open the Alterscheck in your IDE and edit.
 
-Einer meiner ersten Projekten man brauch nix erwarten.
+Much fun!
